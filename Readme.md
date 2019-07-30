@@ -1,6 +1,6 @@
 # ASPxSpreadsheet - How to download a document on custom RibbonItem click
 <!-- run online -->
-**[[Run Online]](https://codecentral.devexpress.com/t623622)**
+**[[Run Online]](https://codecentral.devexpress.com/t623622/)**
 <!-- run online end -->
 
 
