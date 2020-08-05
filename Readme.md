@@ -38,7 +38,7 @@
 
 <p> </p>
 <p>ASPxSpreadsheet in this example loads data from a database, so the default file dialogs are disabled: see the <a href="https://documentation.devexpress.com/AspNet/117677/Common-Concepts/Office-Document-Management/Document-Loading">Office Document Management > Document Loading</a> article.</p>
-
+<p><strong>NOTE:</strong><br>A cell doesn't get the value an end-user entered until the user clicks Enter or tabs out of this cell. As a result the issue with saving an entered value may occur if the value was not submitted.<p>In v18.1 we introduced the <a href="https://docs.devexpress.com/AspNet/js-ASPxClientSpreadsheet.ApplyCellEdit">ASPxClientSpreadsheet.ApplyCellEdit</a> method to force submission of the last entered value.</p>
 <br/>
 
 
