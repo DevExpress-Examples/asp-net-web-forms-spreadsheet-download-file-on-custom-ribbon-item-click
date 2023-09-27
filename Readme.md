@@ -5,7 +5,7 @@
 <!-- default badges end -->
 # Spreadsheet for ASP.NET Web Forms - How to download a document on a custom ribbon item click
 <!-- run online -->
-**[[Run Online]](https://codecentral.devexpress.com/t623622/)**
+**[[Run Online]](https://codecentral.devexpress.com/134059990/)**
 <!-- run online end -->
 
 This example illustrates how to download a file on a custom ribbon item click.
