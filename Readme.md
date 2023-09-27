@@ -31,7 +31,7 @@ function onCustomCommandExecuted(s,e) {
 
 ASPxSpreadsheet in this example loads data from a database, so the default file dialogs are disabled.
 
-Note that a cell doesn't get the value an end-user entered until the user clicks Enter or tabs out of this cell. As a result the issue with saving an entered value may occur if the value was not submitted. To force submission of the last entered value, call the <p>In v18.1 we introduced the [ASPxClientSpreadsheet.ApplyCellEdit](https://docs.devexpress.com/AspNet/js-ASPxClientSpreadsheet.ApplyCellEdit).
+Note that a cell doesn't get the value an end-user entered until the user clicks Enter or tabs out of this cell. As a result the issue with saving an entered value may occur if the value was not submitted. To force submission of the last entered value, call the [ASPxClientSpreadsheet.ApplyCellEdit](https://docs.devexpress.com/AspNet/js-ASPxClientSpreadsheet.ApplyCellEdit) method.
 
 ## Documentation
 
