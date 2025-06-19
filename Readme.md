@@ -18,7 +18,7 @@ The item is added in code behind to the existing ribbon tabs. The tabs are gene
   Spreadsheet.RibbonTabs[1].Groups[0].Items.Insert(0, item);
 ```
 
-Since it is not possible to download a document on a callback request, a ribbon item should send a postback. For this, use the [__doPostBack](https://www.codeproject.com/Articles/667531/doPostBack-function) function in the client-side [ASPxClientSpreadsheet.CustomCommandExecuted](https://docs.devexpress.com/AspNet/js-ASPxClientSpreadsheet.CustomCommandExecuted) event handler:
+Since it is not possible to download a document on a callback request, a ribbon item should send a postback. For this, use the [__doPostBack](https://www.codeproject.com/Articles/667531/_doPostBack-function) function in the client-side [ASPxClientSpreadsheet.CustomCommandExecuted](https://docs.devexpress.com/AspNet/js-ASPxClientSpreadsheet.CustomCommandExecuted) event handler:
 
 ```js
 function onCustomCommandExecuted(s,e) {
