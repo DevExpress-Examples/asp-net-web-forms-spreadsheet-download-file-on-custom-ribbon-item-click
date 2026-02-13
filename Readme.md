@@ -27,7 +27,7 @@
 ```
 
 
-<p> Since it is not possible to download a document on a callback request (see <a href="https://www.devexpress.com/Support/Center/p/T135686">Why it is impossible to download files on callbacks</a>), a ribbon item should send a postback. For this, use the <a href="https://www.codeproject.com/Articles/667531/doPostBack-function">__doPostBack</a> function in the client-side <a href="https://documentation.devexpress.com/AspNet/DevExpress.Web.ASPxSpreadsheet.Scripts.ASPxClientSpreadsheet.CustomCommandExecuted.event">ASPxClientSpreadsheet.CustomCommandExecuted</a> event handler:</p>
+<p> Since it is not possible to download a document on a callback request (see <a href="https://www.devexpress.com/Support/Center/p/T135686">Why it is impossible to download files on callbacks</a>), a ribbon item should send a postback. For this, use the __doPostBack function in the client-side <a href="https://documentation.devexpress.com/AspNet/DevExpress.Web.ASPxSpreadsheet.Scripts.ASPxClientSpreadsheet.CustomCommandExecuted.event">ASPxClientSpreadsheet.CustomCommandExecuted</a> event handler:</p>
 
 
 ```js
