@@ -36,7 +36,7 @@ Note that a cell doesn't get the value an end-user entered until the user clicks
 * [Why it is impossible to download files on callbacks](https://docs.devexpress.com/AspNet/403753/troubleshooting/server-side-issues/impossible-download-files-on-callback)
 * [Spreadsheet Document Management](https://docs.devexpress.com/AspNet/116406/components/spreadsheet/document-management)
 <!-- feedback -->
-## Does this example address your development requirements/objectives?
+## Does This Example Address Your Development Requirements/Objectives?
 
 [<img src="https://www.devexpress.com/support/examples/i/yes-button.svg"/>](https://www.devexpress.com/support/examples/survey.xml?utm_source=github&utm_campaign=asp-net-web-forms-spreadsheet-download-file-on-custom-ribbon-item-click&~~~was_helpful=yes) [<img src="https://www.devexpress.com/support/examples/i/no-button.svg"/>](https://www.devexpress.com/support/examples/survey.xml?utm_source=github&utm_campaign=asp-net-web-forms-spreadsheet-download-file-on-custom-ribbon-item-click&~~~was_helpful=no)
 
